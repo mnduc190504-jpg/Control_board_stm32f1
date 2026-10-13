@@ -1,0 +1,15 @@
+# Altium Temporary and History Folders
+History/
+__History/
+Project Logs for */
+Project Outputs for */
+
+# Backup & Preview files
+*.PcbDocPreview
+*.SchDocPreview
+* Preview/
+*.LOG
+*.Data
+*.Lck
+*.Txt
+*.Zip
